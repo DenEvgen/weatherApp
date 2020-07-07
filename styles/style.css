@@ -1,0 +1,48 @@
+html { 
+  background: url(../images/bgWebsite.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+	background: none;
+}
+
+#mainDIV {
+	text-align: center;
+	margin-top: 15%;
+	width: 40%;
+}
+
+.btn {
+	background: #57bded;
+	border-color: white;
+}
+
+.btn:hover {
+	background: #0c91ce;
+	border-color: white;
+}
+
+h1 {
+	color: #435b7f;
+}
+
+#inputLabel {
+	color: #435b7f;
+}
+
+#city {
+	margin: 5% 0;
+}
+
+.alert {
+	width: 40%;
+	margin: 0 auto;
+}
+
+#weatherDIV {
+	text-align: center;
+}
